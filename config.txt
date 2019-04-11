@@ -1,0 +1,10 @@
+1200, 800
+Prod_A, Prod_B, Prod_C, Prod_D, Prod_E
+20
+10, 5, 0.5
+
+4
+Warehouse1 xy: 100, 100 prod: Prod_A, 10, Prod_D, 10, Prod_E, 20
+Warehouse2 xy: 800, 500 prod: Prod_B, 10, Prod_C, 20
+Warehouse3 xy: 400, 200 prod: Prod_B, 10, Prod_C, 20, Prod_D, 10
+Warehouse4 xy: 1000, 700 prod: Prod_D, 10
